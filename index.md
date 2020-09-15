@@ -1,4 +1,7 @@
-## Welcome to CPIT490 prject, enjoy!
+## Welcome to Abdullah's Page, thanks for instructor Dr.Adil
+
+## CPIT-490 FIRST Assignment
+
 
 You can use the [editor on GitHub](https://github.com/abinsaid/MyHomePage.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
