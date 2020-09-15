@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CPIT490 prject, enjoy!
 
 You can use the [editor on GitHub](https://github.com/abinsaid/MyHomePage.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
